@@ -20,6 +20,7 @@ export default function App() {
   return (
     <Header>
       <h1>Oi pessoal!!!!!</h1>  
+      <h2>Brasil caminhoneiro</h2>
     </Header>
   )
 }
